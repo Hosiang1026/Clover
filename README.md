@@ -1,5 +1,6 @@
 # Clover
-This is Clover 四叶草配置文件
+
+四叶草配置文件
 
 笔记本型号： 三星500R5H-Y0A
 
