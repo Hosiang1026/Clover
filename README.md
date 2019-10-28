@@ -4,10 +4,9 @@
 
 ## 网站：http://www.hosiang.cn （狂欢马克思）
 
+## 笔记本型号： 三星500R5H-Y0A
 
-笔记本型号： 三星500R5H-Y0A
-
-目前操作系统： Mac OS 10.12.6 和 Windows 10 创意者正式版
+## 目前操作系统： Mac OS 10.12.6 和 Windows 10 创意者正式版
 
 安装过：Mac OS 10.12.4 、Mac OS 10.12.6和 Mac OS 10.13 beta4
 
