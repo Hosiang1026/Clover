@@ -20,11 +20,11 @@
 
 ### 主题1
 
-![theme_01](https://github.com/Hosiang1026/Clover/blob/master/EFI/CLOVER/themes/theme_01/screenshot1.png  "Clover启动主题一")
+![theme_01](https://raw.githubusercontent.com/Hosiang1026/Clover/master/EFI/CLOVER/themes/theme_01/screenshot1.png  "Clover启动主题一")
 
 ### 主题2
 
-![theme_02](https://github.com/Hosiang1026/Clover/blob/master/EFI/CLOVER/themes/theme_02/screenshot.png  "Clover启动主题二")
+![theme_02]https://raw.githubusercontent.com/Hosiang1026/Clover/master/EFI/CLOVER/themes/theme_02/screenshot.png  "Clover启动主题二")
 
 ### 主题3
 
