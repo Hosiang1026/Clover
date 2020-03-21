@@ -28,7 +28,7 @@
 
 ### 主题3
 
-![theme_03](https://raw.githubusercontent.com/Hosiang1026/Clover/master/EFI/CLOVER/themes/theme_03/screenshot.png  "Clover启动主题三")
+![theme_03](https://raw.githubusercontent.com/Hosiang1026/Clover/master/EFI/CLOVER/themes/theme_03/008.png  "Clover启动主题三")
 
 ### 主题4
 
