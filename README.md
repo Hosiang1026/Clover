@@ -15,3 +15,9 @@
 最新版：刷微博看着，Mac最新版暴露各种Bug，最好别急着体验新功能，系统不稳定、影响心情。
 
 其他问题，请参考：[系统教程 - Hackintosh黑苹果优化 - 进阶篇](https://www.hosiang.cn/1fc3b22d/)
+
+## Clover启动主题（随机）
+
+### 主题1
+
+https://github.com/Hosiang1026/Clover/blob/master/EFI/CLOVER/themes/theme_01/screenshot1.png
