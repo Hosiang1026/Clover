@@ -2,7 +2,7 @@
 
 ## 作者：吉祥草
 
-## 网站：https://www.hosiang.cn （狂欢马克思）
+## 网站：https://hosiang1026.github.io （狂欢马克思）
 
 ## 笔记本型号： 三星500R5H-Y0A
 
